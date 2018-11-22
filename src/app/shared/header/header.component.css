@@ -1,0 +1,15 @@
+li {
+    display: block;
+}
+a {
+    text-decoration: none;
+    padding: 50px;
+    margin: 50px;
+
+}
+.nav{
+    margin-top: -17px;
+    background-color: blue;
+
+}
+
